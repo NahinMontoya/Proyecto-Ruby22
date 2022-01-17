@@ -1,0 +1,3 @@
+class Critica < ApplicationRecord
+
+end

@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  descripcion: MyText
+  id_cliente: one
+  id_abogado: one
+
+two:
+  descripcion: MyText
+  id_cliente: two
+  id_abogado: two
